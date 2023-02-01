@@ -1,0 +1,16 @@
+*~
+\#*\#
+
+.repl-*
+.nrepl-*
+
+.lein-*
+*.gcode
+*.scad
+/target
+*.stl
+*.ai
+*.svg
+/.idea/
+/.clj-kondo/
+/.lsp/
